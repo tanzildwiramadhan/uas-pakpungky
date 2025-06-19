@@ -1,0 +1,24 @@
+HTTP Code: 201
+Response: {
+  "id": 12,
+  "message": "Pembayaran created successfully"
+}
+
+Data Sent: {"nama":"Tanzil","jumlah_jiwa":1,"jenis_zakat":"uang","metode_pembayaran":"Tunai","total_bayar":900000,"nominal_dibayar":1000000,"kembalian":100000,"tanggal_bayar":"2025-06-17T15:48","keterangan":"Uang: 2.5% dari Rp 36,000,000.00"}
+
+HTTP Code: 201
+Response: {
+  "id": 13,
+  "message": "Pembayaran created successfully"
+}
+
+Data Sent: {"nama":"Tanzil","jumlah_jiwa":1,"jenis_zakat":"uang","metode_pembayaran":"Tunai","total_bayar":900000,"nominal_dibayar":1000000,"kembalian":100000,"tanggal_bayar":"2025-06-17T15:48","keterangan":"Uang: 2.5% dari Rp 36,000,000.00"}
+
+HTTP Code: 201
+Response: {
+  "id": 14,
+  "message": "Pembayaran created successfully"
+}
+
+Data Sent: {"nama":"Iman","jumlah_jiwa":2,"jenis_zakat":"uang","metode_pembayaran":"Tunai","total_bayar":2500000,"nominal_dibayar":101000000,"kembalian":98500000,"tanggal_bayar":"2025-06-19T06:47","keterangan":"Uang: 2.5% dari Rp 100,000,000.00"}
+
